@@ -14,7 +14,7 @@ learning and building real-world data projects.
 
 ### Week 2 - Exploratory Data Analysis (EDA)
 - Explored and analyzed the dataset
-- Created visualizations and charts
+- Created visualizations and pivot table
 - Identified patterns and insights
 - File: Data Analysis EDA WEEK 2.xlsx
 
